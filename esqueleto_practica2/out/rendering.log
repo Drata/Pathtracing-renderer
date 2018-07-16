@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: El directorio Intermediate no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Intermediate.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  main.cpp
+main.cpp(242): warning C4018: '<': no coinciden signed/unsigned
+main.cpp(243): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\.\out\rendering.dll) no coincide con el valor de la propiedad OutputFile de Linker (C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\bin\x64\Release\rendering.dll). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+     Creando biblioteca ./deploy/x64/Release/rendering.lib y objeto ./deploy/x64/Release/rendering.exp
+  Generando código
+  1510 of 2600 functions (58.1%) were compiled, the rest were copied from previous compilation.
+    246 functions were new in current compilation
+    195 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+libglog_static.lib(logging.obj) : warning LNK4099: no se encontró PDB 'libglog_static.pdb' con 'libglog_static.lib(logging.obj)' o en 'C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\out\libglog_static.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+libglog_static.lib(vlog_is_on.obj) : warning LNK4099: no se encontró PDB 'libglog_static.pdb' con 'libglog_static.lib(vlog_is_on.obj)' o en 'C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\out\libglog_static.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+libglog_static.lib(raw_logging.obj) : warning LNK4099: no se encontró PDB 'libglog_static.pdb' con 'libglog_static.lib(raw_logging.obj)' o en 'C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\out\libglog_static.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+libglog_static.lib(utilities.obj) : warning LNK4099: no se encontró PDB 'libglog_static.pdb' con 'libglog_static.lib(utilities.obj)' o en 'C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\out\libglog_static.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+libglog_static.lib(port.obj) : warning LNK4099: no se encontró PDB 'libglog_static.pdb' con 'libglog_static.lib(port.obj)' o en 'C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\out\libglog_static.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  rendering.vcxproj -> C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\.\out\rendering.dll
+  rendering.vcxproj -> .\out\rendering.pdb (Full PDB)
+  Ya existe el subdirectorio o el archivo C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\deploy.
+  Ya existe el subdirectorio o el archivo C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\deploy\x64.
+  Ya existe el subdirectorio o el archivo C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\deploy\x64\Release.
+  C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\bin\x64\Release\rendering.dll
+  1 archivo(s) copiado(s)
+  C:\Users\adesc\Desktop\Computación Gráfica\Rendering 3\esqueleto_practica2\bin\x64\Release\rendering.dll
+  1 archivo(s) copiado(s)
